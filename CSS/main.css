@@ -1,0 +1,173 @@
+h1{
+  color:#66BFBF;
+  margin:50px auto 0  auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight: normal;
+}
+
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+#pa{
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.8rem;
+  font-weight: normal;
+}
+
+
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #bac7a7;
+  width:5%;
+}
+
+.container{
+  background-color:#e1f4f3;
+  text-align: center;
+  padding: 100px;
+  position:relative;
+
+
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:280px;
+  top:400px;
+}
+
+.top-cloud{
+  position:absolute;
+  right:250px;
+  top:40px;
+
+}
+body{
+  color:#40514E;
+  margin: 0;
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+
+.picture{
+height:200px;
+width:200px;
+border-radius:50%;
+padding:30px;
+}
+
+.code {
+  height:200px;
+  width:200px;
+  border-radius:50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.linux{
+  height:200px;
+  width:200px;
+  border-radius:50%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+  padding:30px;
+}
+
+.contact-me{
+  width:40%;
+  margin:40px auto 60px;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding:50px 0 20px;
+}
+
+a{
+  color:#11999e;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin:20px 10px;
+}
+
+a:hover{
+  color:#EAf6f6;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding:20px 0;
+}
+
+
+
+
+.myButton {
+
+              box-shadow: 0px 10px 14px -7px #276873;
+
+              background:linear-gradient(to bottom, #56bde3 5%, #408c99 100%);
+
+              background-color:#56bde3;
+
+              border-radius:8px;
+
+              display:inline-block;
+
+              cursor:pointer;
+
+              color:#ffffff;
+
+              font-family:Arial;
+
+              font-size:18px;
+
+              padding:13px 32px;
+
+              text-decoration:none;
+
+              text-shadow:0px -1px 0px #3d768a;
+
+}
+
+.myButton:hover {
+
+              background:linear-gradient(to bottom, #408c99 5%, #56bde3 100%);
+
+              background-color:#408c99;
+
+}
+
+.myButton:active {
+
+              position:relative;
+
+              top:1px;
+
+}
+
+body{
+
+              text-align:center;
+
+}
